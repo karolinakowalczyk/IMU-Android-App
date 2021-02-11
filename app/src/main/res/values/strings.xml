@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="error_no_sensor">No sensor!</string>
+</resources>
